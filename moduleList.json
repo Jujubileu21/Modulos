@@ -1,0 +1,276 @@
+{
+  "activeModules": [
+    {
+      "id": "alternative-rotation",
+      "title": "Alternative Rotation",
+      "version": ""
+    },
+    {
+      "id": "ambientdoors",
+      "title": "Ambient Doors",
+      "version": ""
+    },
+    {
+      "id": "enhancedcombathud",
+      "title": "Argon - Combat HUD",
+      "version": ""
+    },
+    {
+      "id": "autoanimations",
+      "title": "Automated Animations",
+      "version": ""
+    },
+    {
+      "id": "autorotate",
+      "title": "Auto-Rotate",
+      "version": ""
+    },
+    {
+      "id": "beyond20",
+      "title": "Beyond20 companion module",
+      "version": ""
+    },
+    {
+      "id": "chat-images",
+      "title": "Chat Images",
+      "version": ""
+    },
+    {
+      "id": "compendium-browser",
+      "title": "Compendium Browser",
+      "version": ""
+    },
+    {
+      "id": "ddb-importer",
+      "title": "D&D Beyond Importer",
+      "version": ""
+    },
+    {
+      "id": "df-architect",
+      "title": "DF Architect",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "wcube",
+      "title": "Dice So Nice - Weighted Companion Cube Dice Set",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "elevation-drag-ruler",
+      "title": "DnD5e Drag Ruler Integration",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "dragupload",
+      "title": "Drag Upload (Get Over Here!)",
+      "version": ""
+    },
+    {
+      "id": "forien-quest-log",
+      "title": "Forien's Quest Log",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_macros",
+      "title": "Foundry Community Macros",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_tables",
+      "title": "Foundry Community Tables",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "gm-screen",
+      "title": "GM Screen",
+      "version": ""
+    },
+    {
+      "id": "health-monitor",
+      "title": "Health Monitor",
+      "version": ""
+    },
+    {
+      "id": "illandril-chat-enhancements",
+      "title": "Illandril's Chat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "input-expressions",
+      "title": "Input Expressions",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": "1"
+    },
+    {
+      "id": "keybind-lib",
+      "title": "Keybind Lib",
+      "version": ""
+    },
+    {
+      "id": "koboldworks-ready-up",
+      "title": "Koboldworks – Ready Up!",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "lib-df-hotkeys",
+      "title": "Library: DF Hotkeys",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "LockView",
+      "title": "Lock View",
+      "version": ""
+    },
+    {
+      "id": "magicitems",
+      "title": "Magic Items",
+      "version": ""
+    },
+    {
+      "id": "_mathjs",
+      "title": "Math.js",
+      "version": "vtt2"
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "minimal-ui",
+      "title": "Minimal UI",
+      "version": ""
+    },
+    {
+      "id": "monks-tokenbar",
+      "title": "Monk's TokenBar",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "plutonium",
+      "title": "SRD: Enhanced",
+      "version": ""
+    },
+    {
+      "id": "quick-insert",
+      "title": "Quick Insert - Search Widget",
+      "version": ""
+    },
+    {
+      "id": "fateroll",
+      "title": "Roll of Fate",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-simple-calendar",
+      "title": "Simple Calendar",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "SoundBoard",
+      "title": "SoundBoard by Blitz",
+      "version": ""
+    },
+    {
+      "id": "SupersHomebrewPack",
+      "title": "Super's Homebrew Compendium",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "trigger-happy",
+      "title": "Trigger Happy",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "betterrolls5e",
+      "title": "Better Rolls for 5e",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    }
+  ]
+}
