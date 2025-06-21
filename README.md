@@ -1,0 +1,361 @@
+{
+  "activeModules": [
+    {
+      "id": "resourcesplus",
+      "title": "5e-Sheet Resources Plus",
+      "version": ""
+    },
+    {
+      "id": "acelib",
+      "title": "Ace Library",
+      "version": ""
+    },
+    {
+      "id": "ActiveAuras",
+      "title": "Active Auras",
+      "version": ""
+    },
+    {
+      "id": "ambientdoors",
+      "title": "Ambient Doors",
+      "version": ""
+    },
+    {
+      "id": "autoanimations",
+      "title": "Automated Animations",
+      "version": ""
+    },
+    {
+      "id": "automated-evocations",
+      "title": "Automated Evocations - Companion Manager",
+      "version": ""
+    },
+    {
+      "id": "boy-king-of-idaho-music-pack",
+      "title": "Boy King of Idaho Music Pack",
+      "version": ""
+    },
+    {
+      "id": "pt-BR",
+      "title": "Brazilian Portuguese [Core] - Tradução PT-BR",
+      "version": ""
+    },
+    {
+      "id": "combat-tracker-dock",
+      "title": "Carousel Combat Tracker",
+      "version": ""
+    },
+    {
+      "id": "chat-portrait",
+      "title": "Chat Portrait",
+      "version": ""
+    },
+    {
+      "id": "color-picker",
+      "title": "Color Picker",
+      "version": ""
+    },
+    {
+      "id": "foundry-combat-focus",
+      "title": "Combat Focus",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "damage-log",
+      "title": "Damage Log",
+      "version": ""
+    },
+    {
+      "id": "darkraven-games-soundscapes-free",
+      "title": "Darkraven Games Free Fantasy and Sci-Fi Soundscapes",
+      "version": ""
+    },
+    {
+      "id": "deck-of-many-bones",
+      "title": "Deck of Many Bones",
+      "version": ""
+    },
+    {
+      "id": "df-architect",
+      "title": "DF Architect",
+      "version": ""
+    },
+    {
+      "id": "dfreds-convenient-effects",
+      "title": "DFreds Convenient Effects",
+      "version": ""
+    },
+    {
+      "id": "dfreds-droppables",
+      "title": "DFreds Droppables",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects (DAE)",
+      "version": ""
+    },
+    {
+      "id": "fast-flip",
+      "title": "Fast Flip!",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_macros",
+      "title": "Foundry Community Macros",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "version": ""
+    },
+    {
+      "id": "itemacro",
+      "title": "Item Macro",
+      "version": ""
+    },
+    {
+      "id": "items-with-spells-5e",
+      "title": "Items with Spells DnD5e",
+      "version": ""
+    },
+    {
+      "id": "ivan-duch-music-packs",
+      "title": "Ivan Duch's Music Packs",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "lib-dfreds-ui-extender",
+      "title": "Lib: DFreds UI Extender",
+      "version": ""
+    },
+    {
+      "id": "scene-packer",
+      "title": "Library: Scene Packer",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": ""
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "version": ""
+    },
+    {
+      "id": "monks-sound-enhancements",
+      "title": "Monk's Sound Enhancements",
+      "version": ""
+    },
+    {
+      "id": "monks-tokenbar",
+      "title": "Monk's TokenBar",
+      "version": ""
+    },
+    {
+      "id": "monks-wall-enhancement",
+      "title": "Monk's Wall Enhancement",
+      "version": ""
+    },
+    {
+      "id": "multilevel-tokens",
+      "title": "Multilevel Tokens, by Beneos",
+      "version": ""
+    },
+    {
+      "id": "music-d20-sampler",
+      "title": "Music d20 Sampler",
+      "version": ""
+    },
+    {
+      "id": "fvtt-party-resources",
+      "title": "Party Resources",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "plutonium",
+      "title": "Plutonium",
+      "version": ""
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "version": ""
+    },
+    {
+      "id": "popout",
+      "title": "PopOut!",
+      "version": ""
+    },
+    {
+      "id": "portal-lib",
+      "title": "Portal",
+      "version": ""
+    },
+    {
+      "id": "potato-or-not",
+      "title": "Potato Or Not",
+      "version": ""
+    },
+    {
+      "id": "scene-transitions",
+      "title": "Scene Transitions",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "simbuls-athenaeum",
+      "title": "Simbul's Athenaeum",
+      "version": ""
+    },
+    {
+      "id": "simbuls-creature-aide",
+      "title": "Simbul's Creature Aide",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-simple-calendar",
+      "title": "Simple Calendar",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "soundfxlibrary",
+      "title": "SoundFx Library",
+      "version": ""
+    },
+    {
+      "id": "stairways",
+      "title": "Stairways (Teleporter)",
+      "version": ""
+    },
+    {
+      "id": "dnd-randomizer",
+      "title": "Stochastic, Fantastic! - Random Encounter Generator",
+      "version": ""
+    },
+    {
+      "id": "streamoverlay",
+      "title": "Stream Overlay",
+      "version": ""
+    },
+    {
+      "id": "tabletop-rpg-music",
+      "title": "Tabletop RPG Music",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "times-up",
+      "title": "Times Up",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud-core",
+      "title": "Token Action HUD Core",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud-dnd5e",
+      "title": "Token Action HUD D&D 5e",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "torch",
+      "title": "Torch",
+      "version": ""
+    },
+    {
+      "id": "warpgate",
+      "title": "Warp Gate",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "babonus",
+      "title": "Build-a-Bonus",
+      "version": ""
+    },
+    {
+      "id": "dark-mode-5e",
+      "title": "Zeta's Dark Mode for DnD 5th Edition",
+      "version": ""
+    }
+  ]
+}
