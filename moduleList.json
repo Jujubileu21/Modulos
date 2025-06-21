@@ -1,8 +1,18 @@
 {
   "activeModules": [
     {
-      "id": "alternative-rotation",
-      "title": "Alternative Rotation",
+      "id": "resourcesplus",
+      "title": "5e-Sheet Resources Plus",
+      "version": ""
+    },
+    {
+      "id": "acelib",
+      "title": "Ace Library",
+      "version": ""
+    },
+    {
+      "id": "ActiveAuras",
+      "title": "Active Auras",
       "version": ""
     },
     {
@@ -11,38 +21,63 @@
       "version": ""
     },
     {
-      "id": "enhancedcombathud",
-      "title": "Argon - Combat HUD",
-      "version": ""
-    },
-    {
       "id": "autoanimations",
       "title": "Automated Animations",
       "version": ""
     },
     {
-      "id": "autorotate",
-      "title": "Auto-Rotate",
+      "id": "automated-evocations",
+      "title": "Automated Evocations - Companion Manager",
       "version": ""
     },
     {
-      "id": "beyond20",
-      "title": "Beyond20 companion module",
+      "id": "boy-king-of-idaho-music-pack",
+      "title": "Boy King of Idaho Music Pack",
       "version": ""
     },
     {
-      "id": "chat-images",
-      "title": "Chat Images",
+      "id": "pt-BR",
+      "title": "Brazilian Portuguese [Core] - Tradução PT-BR",
       "version": ""
     },
     {
-      "id": "compendium-browser",
-      "title": "Compendium Browser",
+      "id": "combat-tracker-dock",
+      "title": "Carousel Combat Tracker",
       "version": ""
     },
     {
-      "id": "ddb-importer",
-      "title": "D&D Beyond Importer",
+      "id": "chat-portrait",
+      "title": "Chat Portrait",
+      "version": ""
+    },
+    {
+      "id": "color-picker",
+      "title": "Color Picker",
+      "version": ""
+    },
+    {
+      "id": "foundry-combat-focus",
+      "title": "Combat Focus",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "damage-log",
+      "title": "Damage Log",
+      "version": ""
+    },
+    {
+      "id": "darkraven-games-soundscapes-free",
+      "title": "Darkraven Games Free Fantasy and Sci-Fi Soundscapes",
+      "version": ""
+    },
+    {
+      "id": "deck-of-many-bones",
+      "title": "Deck of Many Bones",
       "version": ""
     },
     {
@@ -51,13 +86,18 @@
       "version": ""
     },
     {
-      "id": "dice-so-nice",
-      "title": "Dice So Nice!",
+      "id": "dfreds-convenient-effects",
+      "title": "DFreds Convenient Effects",
       "version": ""
     },
     {
-      "id": "wcube",
-      "title": "Dice So Nice - Weighted Companion Cube Dice Set",
+      "id": "dfreds-droppables",
+      "title": "DFreds Droppables",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
       "version": ""
     },
     {
@@ -66,23 +106,18 @@
       "version": ""
     },
     {
-      "id": "elevation-drag-ruler",
-      "title": "DnD5e Drag Ruler Integration",
-      "version": ""
-    },
-    {
       "id": "drag-ruler",
       "title": "Drag Ruler",
       "version": ""
     },
     {
-      "id": "dragupload",
-      "title": "Drag Upload (Get Over Here!)",
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects (DAE)",
       "version": ""
     },
     {
-      "id": "forien-quest-log",
-      "title": "Forien's Quest Log",
+      "id": "fast-flip",
+      "title": "Fast Flip!",
       "version": ""
     },
     {
@@ -91,48 +126,33 @@
       "version": ""
     },
     {
-      "id": "foundry_community_tables",
-      "title": "Foundry Community Tables",
-      "version": ""
-    },
-    {
       "id": "fxmaster",
       "title": "FXMaster",
       "version": ""
     },
     {
-      "id": "gm-screen",
-      "title": "GM Screen",
+      "id": "healthEstimate",
+      "title": "Health Estimate",
       "version": ""
     },
     {
-      "id": "health-monitor",
-      "title": "Health Monitor",
+      "id": "itemacro",
+      "title": "Item Macro",
       "version": ""
     },
     {
-      "id": "illandril-chat-enhancements",
-      "title": "Illandril's Chat Enhancements",
+      "id": "items-with-spells-5e",
+      "title": "Items with Spells DnD5e",
       "version": ""
     },
     {
-      "id": "input-expressions",
-      "title": "Input Expressions",
+      "id": "ivan-duch-music-packs",
+      "title": "Ivan Duch's Music Packs",
       "version": ""
     },
     {
       "id": "JB2A_DnD5e",
       "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
-      "version": "1"
-    },
-    {
-      "id": "keybind-lib",
-      "title": "Keybind Lib",
-      "version": ""
-    },
-    {
-      "id": "koboldworks-ready-up",
-      "title": "Koboldworks – Ready Up!",
       "version": ""
     },
     {
@@ -141,29 +161,19 @@
       "version": ""
     },
     {
-      "id": "lib-df-hotkeys",
-      "title": "Library: DF Hotkeys",
+      "id": "lib-dfreds-ui-extender",
+      "title": "Lib: DFreds UI Extender",
+      "version": ""
+    },
+    {
+      "id": "scene-packer",
+      "title": "Library: Scene Packer",
       "version": ""
     },
     {
       "id": "lib-wrapper",
       "title": "libWrapper",
-      "version": "0"
-    },
-    {
-      "id": "LockView",
-      "title": "Lock View",
       "version": ""
-    },
-    {
-      "id": "magicitems",
-      "title": "Magic Items",
-      "version": ""
-    },
-    {
-      "id": "_mathjs",
-      "title": "Math.js",
-      "version": "vtt2"
     },
     {
       "id": "midi-qol",
@@ -171,8 +181,13 @@
       "version": ""
     },
     {
-      "id": "minimal-ui",
-      "title": "Minimal UI",
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "version": ""
+    },
+    {
+      "id": "monks-sound-enhancements",
+      "title": "Monk's Sound Enhancements",
       "version": ""
     },
     {
@@ -181,8 +196,23 @@
       "version": ""
     },
     {
-      "id": "perfect-vision",
-      "title": "Perfect Vision",
+      "id": "monks-wall-enhancement",
+      "title": "Monk's Wall Enhancement",
+      "version": ""
+    },
+    {
+      "id": "multilevel-tokens",
+      "title": "Multilevel Tokens, by Beneos",
+      "version": ""
+    },
+    {
+      "id": "music-d20-sampler",
+      "title": "Music d20 Sampler",
+      "version": ""
+    },
+    {
+      "id": "fvtt-party-resources",
+      "title": "Party Resources",
       "version": ""
     },
     {
@@ -192,17 +222,32 @@
     },
     {
       "id": "plutonium",
-      "title": "SRD: Enhanced",
+      "title": "Plutonium",
       "version": ""
     },
     {
-      "id": "quick-insert",
-      "title": "Quick Insert - Search Widget",
+      "id": "polyglot",
+      "title": "Polyglot",
       "version": ""
     },
     {
-      "id": "fateroll",
-      "title": "Roll of Fate",
+      "id": "popout",
+      "title": "PopOut!",
+      "version": ""
+    },
+    {
+      "id": "portal-lib",
+      "title": "Portal",
+      "version": ""
+    },
+    {
+      "id": "potato-or-not",
+      "title": "Potato Or Not",
+      "version": ""
+    },
+    {
+      "id": "scene-transitions",
+      "title": "Scene Transitions",
       "version": ""
     },
     {
@@ -216,6 +261,16 @@
       "version": ""
     },
     {
+      "id": "simbuls-athenaeum",
+      "title": "Simbul's Athenaeum",
+      "version": ""
+    },
+    {
+      "id": "simbuls-creature-aide",
+      "title": "Simbul's Creature Aide",
+      "version": ""
+    },
+    {
       "id": "foundryvtt-simple-calendar",
       "title": "Simple Calendar",
       "version": ""
@@ -226,18 +281,28 @@
       "version": ""
     },
     {
-      "id": "SoundBoard",
-      "title": "SoundBoard by Blitz",
+      "id": "soundfxlibrary",
+      "title": "SoundFx Library",
       "version": ""
     },
     {
-      "id": "SupersHomebrewPack",
-      "title": "Super's Homebrew Compendium",
+      "id": "stairways",
+      "title": "Stairways (Teleporter)",
       "version": ""
     },
     {
-      "id": "tidy5e-sheet",
-      "title": "Tidy5e Sheet",
+      "id": "dnd-randomizer",
+      "title": "Stochastic, Fantastic! - Random Encounter Generator",
+      "version": ""
+    },
+    {
+      "id": "streamoverlay",
+      "title": "Stream Overlay",
+      "version": ""
+    },
+    {
+      "id": "tabletop-rpg-music",
+      "title": "Tabletop RPG Music",
       "version": ""
     },
     {
@@ -246,8 +311,23 @@
       "version": ""
     },
     {
-      "id": "token-action-hud",
-      "title": "Token Action HUD",
+      "id": "times-up",
+      "title": "Times Up",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud-core",
+      "title": "Token Action HUD Core",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud-dnd5e",
+      "title": "Token Action HUD D&D 5e",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
       "version": ""
     },
     {
@@ -256,20 +336,25 @@
       "version": ""
     },
     {
-      "id": "trigger-happy",
-      "title": "Trigger Happy",
+      "id": "torch",
+      "title": "Torch",
+      "version": ""
+    },
+    {
+      "id": "warpgate",
+      "title": "Warp Gate",
       "version": ""
     }
   ],
   "inactiveModules": [
     {
-      "id": "betterrolls5e",
-      "title": "Better Rolls for 5e",
+      "id": "babonus",
+      "title": "Build-a-Bonus",
       "version": ""
     },
     {
-      "id": "dae",
-      "title": "Dynamic effects using Active Effects",
+      "id": "dark-mode-5e",
+      "title": "Zeta's Dark Mode for DnD 5th Edition",
       "version": ""
     }
   ]
